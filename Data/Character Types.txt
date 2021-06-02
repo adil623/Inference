@@ -1,0 +1,1 @@
+{"little girl": 1, "grandmother": 2, "mother": 3, "dog": 4, "old woman": 5, "old man": 6, "mouse": 7, "cat": 8, "girl": 9, "father": 10, "rabbit": 11, "little boy": 12, "boy": 13, "bird": 14, "man": 15, "grandfather": 16, "woman": 17, "null": 0}

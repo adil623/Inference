@@ -1,0 +1,1 @@
+{"na": 1, "take": 2, "give": 3, "talk": 4, "walk": 5, "run": 6, "sleep": 7, "think": 8, "throw": 9, "sit": 10, "look": 11, "eat": 12, "enjoy": 13, "no": 14, "stand": 15, "write": 16, "angry": 17, "greet": 18, "push": 19, "pick": 20, "laugh": 21, "put": 22, "cry": 23, "idle": 24, "pull": 25, "thank": 26, "fly": 27, "dance": 28, "work": 29, "pad": 0}

@@ -1,0 +1,1 @@
+{"no background": 0, "forest": 1, "house": 2, "bedroom": 3, "garden": 4, "kitchen": 5, "room": 6, "street": 7, "factory": 8}

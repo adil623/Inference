@@ -8,6 +8,8 @@ spacy = "*"
 numpy = "*"
 pandas = "*"
 gunicorn = "*"
+flask = "*"
+tensorflow = "*"
 
 [dev-packages]
 
